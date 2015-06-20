@@ -23,5 +23,5 @@ console.log(parseJson('{'));
 // Output:
 //
 // { x: 3 }
-// [TypeError: Cannot call method 'apply' of undefined]
+// [SyntaxError: Unexpected end of input]
 // null
