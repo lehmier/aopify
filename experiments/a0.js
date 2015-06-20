@@ -7,7 +7,7 @@ var aopify = function(fn) {
     }
 
     /* Invoke the original function */
-    console.log('About the invoke the original function');
+    console.log('About to invoke the original function');
     var retVal = fn.apply(this, arguments);
     console.log('Value returned by the original function:  ' + retVal);
 
