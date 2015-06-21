@@ -1,6 +1,6 @@
 var aopify = require('../lib/index.js');
 
-/* Very generic string concat */
+/* Doubler */
 var double = function(n) {
   return n * 2;
 };

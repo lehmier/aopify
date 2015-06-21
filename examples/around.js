@@ -1,6 +1,6 @@
 var aopify = require('../lib/index.js');
 
-/* Very generic string concat */
+/* Parse a string as JSON */
 var parseJson = function(str) {
   return JSON.parse(str);
 };
