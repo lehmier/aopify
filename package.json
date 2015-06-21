@@ -1,0 +1,34 @@
+{
+  "name": "aopify",
+  "version": "0.0.1",
+  "description": "An experimental aspect-oriented programming library",
+  "homepage": "https://github.com/lehmier/aopify",
+  "author": {
+    "name": "Jesse Lehmier",
+    "email": "jesselehmier@gmail.com",
+    "url": "http://lehmier.com"
+  },
+  "bugs": { 
+    "url": "https://github.com/lehmier/aopify/issues", 
+    "email": "jesselehmier@gmail.com"
+  },
+  "main": "lib/index.js",
+  "contributors": [],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lehmier/aopify.git"
+  },
+  "keywords": [
+    "aop",
+    "aspect-oriented",
+    "aspect-oriented programming",
+    "aspect-oriented design",
+    "exception handling",
+    "error handling"
+  ],
+  "engines": {
+    "node": ">=0.10.24"
+  },
+  "license": "MIT"
+}
